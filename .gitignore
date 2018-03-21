@@ -1,0 +1,9 @@
+# build files
+build/
+
+# netbeans config
+nbproject/
+
+Docs/
+
+ide_profiles/
